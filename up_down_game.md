@@ -9,6 +9,11 @@
 
 정답을 색상으로 표기
 
+## 실행 화면
+![image](https://github.com/user-attachments/assets/ac4b16ef-8ec1-497d-82a3-6a62a802165f)
+
+![image](https://github.com/user-attachments/assets/73906844-3d21-4d7c-859d-53eda2921103)
+
 ### 소스코드
 ```
 <!DOCTYPE html>
